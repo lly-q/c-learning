@@ -18,10 +18,10 @@
     <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.c">
+    <ClCompile Include="plus\main.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="plus.c">
+    <ClCompile Include="plus\plus.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
