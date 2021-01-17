@@ -142,6 +142,7 @@
     <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="judge\Ternary operator\main.c" />
     <ClCompile Include="plus\main.c" />
     <ClCompile Include="plus\plus.c" />
   </ItemGroup>
