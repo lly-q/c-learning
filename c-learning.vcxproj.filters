@@ -27,5 +27,8 @@
     <ClCompile Include="judge\Ternary operator\main.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="judge\If\main.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
