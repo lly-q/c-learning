@@ -143,6 +143,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="judge\If\main.c" />
+    <ClCompile Include="judge\switch\main.c" />
     <ClCompile Include="judge\Ternary operator\main.c" />
     <ClCompile Include="plus\main.c" />
     <ClCompile Include="plus\plus.c" />
