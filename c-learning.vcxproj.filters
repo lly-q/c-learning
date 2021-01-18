@@ -36,5 +36,8 @@
     <ClCompile Include="loop\while\main.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="loop\for\main.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
