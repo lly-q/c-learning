@@ -13,4 +13,5 @@ int main() {
 	/*调用加法函数并用变量a.b进行运算*/
 	rec = plus(a,b);
 	printf("Final result is %d:", rec);
+	return 0;
 }

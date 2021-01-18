@@ -6,4 +6,5 @@ int main() {
 	scanf_s("%d", &num);
 	/*用了三元运算符*/
 	(num > 0) ? printf("正数") : printf("负数或0");
+	return 0;
 }

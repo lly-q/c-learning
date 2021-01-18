@@ -11,4 +11,5 @@ int main() {
 	{
 		printf("你输入了一个小于1的数");
 	}
+	return 0;
 }
