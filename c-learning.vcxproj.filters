@@ -33,5 +33,8 @@
     <ClCompile Include="judge\switch\main.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="loop\while\main.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
