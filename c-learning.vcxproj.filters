@@ -42,5 +42,8 @@
     <ClCompile Include="loop\dowhile\main.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="c-scope-rules\main.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
