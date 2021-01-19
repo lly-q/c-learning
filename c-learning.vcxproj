@@ -142,6 +142,7 @@
     <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="arrays\main.c" />
     <ClCompile Include="c-scope-rules\main.c" />
     <ClCompile Include="judge\If\main.c" />
     <ClCompile Include="judge\switch\main.c" />
