@@ -48,5 +48,8 @@
     <ClCompile Include="arrays\main.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="pointers\main.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

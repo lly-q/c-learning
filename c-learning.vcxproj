@@ -152,6 +152,7 @@
     <ClCompile Include="loop\while\main.c" />
     <ClCompile Include="plus\main.c" />
     <ClCompile Include="plus\plus.c" />
+    <ClCompile Include="pointers\main.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
