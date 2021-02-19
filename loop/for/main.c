@@ -1,10 +1,12 @@
 #include <stdio.h>
 int main() {
+	int time = 100;
 	printf("冲他妈的\n");
-	for (int effect = 1; effect < 11; effect++)
+	for (int effect = 1; effect < time; effect++)
 	{
 		printf("第%d次努力 \n", effect);
 	}
+	printf("####共%d次努力####\n", time);
 	printf("达成成就：初出茅庐\n");
 	return 0;
 	/*易错点

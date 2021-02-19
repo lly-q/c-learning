@@ -143,7 +143,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="arrays\main.c" />
+    <ClCompile Include="c-input-output\main.c" />
     <ClCompile Include="c-scope-rules\main.c" />
+    <ClCompile Include="Example\Sort-three-numbers\main.c" />
+    <ClCompile Include="Example\the-minimum-value\main.c" />
     <ClCompile Include="judge\If\main.c" />
     <ClCompile Include="judge\switch\main.c" />
     <ClCompile Include="judge\Ternary operator\main.c" />

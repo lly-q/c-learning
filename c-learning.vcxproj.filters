@@ -51,5 +51,14 @@
     <ClCompile Include="pointers\main.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Example\Sort-three-numbers\main.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Example\the-minimum-value\main.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="c-input-output\main.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
